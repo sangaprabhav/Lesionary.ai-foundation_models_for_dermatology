@@ -1,1 +1,1 @@
-![Project Banner](image.jpg)
+![Project Banner](image.jpeg)
